@@ -1,9 +1,8 @@
 # Jenkins Boilerplate
 
 ## Link to blog post
-```
-- [Blog Post](https://medium.com/@garygeorge84/)
-```
+[Blog Post](https://medium.com/@garygeorge84/)
+
 
 This project contains a Makefile which allows you to spin up a docker Jenkins image
 
